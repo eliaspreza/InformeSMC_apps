@@ -4,7 +4,7 @@
   "platform": "4.6.1",
   "metadata": {
     "appmode": "quarto-static",
-    "primary_rmd": "informe_gestion_territorial_v02.qmd",
+    "primary_rmd": "app2.qmd",
     "primary_html": null,
     "content_category": null,
     "has_parameters": false
@@ -3210,7 +3210,7 @@
     }
   },
   "files": {
-    "informe_gestion_territorial_v02.qmd": {
+    "app2.qmd": {
       "checksum": "d52f2cb0ed40e9cf4e5c154ce59a7873"
     }
   },
